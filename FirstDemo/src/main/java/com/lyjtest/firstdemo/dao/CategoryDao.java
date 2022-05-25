@@ -1,7 +1,6 @@
 package com.lyjtest.firstdemo.dao;
 
 import com.lyjtest.firstdemo.entity.CategoryEntity;
-import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
